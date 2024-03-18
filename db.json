@@ -11,7 +11,8 @@
       "brand": "Apple",
       "color": "black",
       "category": "Сухие строительные смеси",
-      "image": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/eleroon.png"
+      "image": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/eleroon.png",
+      "favourite": true
     },
     {
       "id": "2",
@@ -1025,6 +1026,14 @@
     {
       "id": "25",
       "title": "Golden"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Farrux",
+      "contact": "1234",
+      "password": "1qaz"
     }
   ]
 }
